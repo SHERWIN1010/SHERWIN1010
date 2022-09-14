@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHERWIN1010
+- 👋 Hi, I’m @SHERWIN
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on
